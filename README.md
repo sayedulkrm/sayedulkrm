@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/y0HnKKbCPAoAAAAM/duck-dancing-duck.gif"  />
+<img align="right" height="150" src="[https://media.tenor.com/y0HnKKbCPAoAAAAM/duck-dancing-duck.gif](https://raw.githubusercontent.com/sayedulkrm/all-ImagesLink/main/duck%20dancing.gif)"  />
 
 ###
 
