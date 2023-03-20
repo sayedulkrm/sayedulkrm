@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sayedul Karim</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedulkrm" alt="sayedulkrm" /></a> </p> -->
+
+<p align="center"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) </p>
 
 - 🌱 I’m currently learning **Python, TypeScript**
 
