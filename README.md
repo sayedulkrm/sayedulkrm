@@ -62,4 +62,6 @@
 
 ###
 
-<br />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sayedulkrm/sayedulkrm/output/snake.svg" alt="Snake animation" />
