@@ -1,5 +1,5 @@
 <br />
-<h2 align="center">Hi 👋! My name is Sayedul Karim and I'm a <br>Full Stack Developer.</h2>
+<h2 align="center">Hi 👋! My name is Sayedul Karim and I'm a <br>Full Stack Developer</h2>
 
 ###
 
