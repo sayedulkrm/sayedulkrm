@@ -1,5 +1,5 @@
 <br />
-<h2 align="center">Howdy!!! 😄 I'm Sayedul Karim, the Full Stack Developer who codes by day and moonlights as Batman's tech support by night... </h2>
+<h2 align="center">Howdy!!! 😄 I'm Sayedul Karim -- Full Stack Developer --  </h2>
 
 ###
 
